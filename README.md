@@ -7,7 +7,7 @@
 
 
 ## AIM
-To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
+### To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
 Develop a Python program to derive the optimal policy using Q-Learning and compare state values with Monte Carlo method.
